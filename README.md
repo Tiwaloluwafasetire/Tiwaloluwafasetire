@@ -1,6 +1,6 @@
 Hi, I’m Tiwaloluwa Fasetire, a Data analyst with strong background in Engineering.
 
-I am analytically curious with proficiency working with Python & Power BI .
+I am analytically curious with proficiency working with Excel & Power BI .
 
 I enjoy analyzing and visualizing data to make better and informed decisions.
 
